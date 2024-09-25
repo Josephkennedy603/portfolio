@@ -396,7 +396,7 @@ section {
   }
 
   .menu-btn span {
-    font-size: var(--p-font);
+    font-size: 25px;
   }
 }
 
