@@ -429,3 +429,15 @@ section {
   animation: img1 2s ease-in-out infinite;
   animation-delay: 2s;
 }
+
+@keyframes img1 {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
